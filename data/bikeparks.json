@@ -1,0 +1,27 @@
+[
+  {
+    "id": "bp-001",
+    "name": "Library Bike Shelter",
+    "location": { "latitude": -43.5235, "longitude": 172.5826 }
+  },
+  {
+    "id": "bp-002",
+    "name": "Engineering Core Racks",
+    "location": { "latitude": -43.5218, "longitude": 172.5843 }
+  },
+  {
+    "id": "bp-003",
+    "name": "Recreation Centre Cage",
+    "location": { "latitude": -43.5250, "longitude": 172.5790 }
+  },
+  {
+    "id": "bp-004",
+    "name": "Ernest Rutherford Racks",
+    "location": { "latitude": -43.5212, "longitude": 172.5862 }
+  },
+  {
+    "id": "bp-005",
+    "name": "Ilam Village Shelter",
+    "location": { "latitude": -43.5196, "longitude": 172.5760 }
+  }
+]
